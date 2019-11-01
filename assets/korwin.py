@@ -43,7 +43,7 @@ SENTENCES = [
      'zamiast pozwolić ludziom zarabiać',
      'żeby wyrwać kobiety z domu',
      'bo to jest w interesie tak zwanych ludzi pracy'],
-    ['co ma zresztą tyle samo sensu, co zawodu w szachac dla debili.',
+    ['co ma zresztą tyle samo sensu, co zawodu w szachach dla debili.',
      'co zostało zaplanowane w Magdalence przez śp. generała Kiszczaka.',
      'i trzeba być idiotą, żeby ten system popierać.',
      'ale nawet ja jeszcze dożyję normalnych czasów.',
