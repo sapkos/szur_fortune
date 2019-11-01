@@ -47,7 +47,7 @@ SENTENCES = [
      'co zostało zaplanowane w Magdalence przez śp. generała Kiszczaka.',
      'i trzeba być idiotą, żeby ten system popierać.',
      'ale nawet ja jeszcze dożyję normalnych czasów.',
-     'co dowodzi, że wyskrobano nie tych, co trzeba.'
+     'co dowodzi, że wyskrobano nie tych, co trzeba.',
      'a zwykłym ludziom wmawiają, że im coś "dadzą".',
      '- cóż: chcieliście (tfu!) demokracji, to macie.',
      'dlatego trzeba zlikwidować koryto, a nie zmieniać świnie.',
